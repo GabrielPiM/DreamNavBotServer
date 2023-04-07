@@ -1,4 +1,4 @@
-# DreamNavBotServer
+# Dream Nav Bot Server
 Bot Server alternativo ao do OTCV8
 
 Usage Example:
