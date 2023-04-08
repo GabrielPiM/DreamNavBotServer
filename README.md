@@ -1,6 +1,9 @@
 # Dream Nav Bot Server
 Bot Server alternativo ao do OTCV8
 
+!! THIS PROGRAM IS FREE AND CAN NOT BE SOLD !!
+!! ESTE PROGRAMA É GRATIS E NÃO PODE SER VENDIDO !!
+
 Usage Example:
 
 ```lua
