@@ -1,11 +1,21 @@
-# Dream Nav Bot Server
-Bot Server alternativo ao do OTCV8
+# DreamNav BotServer
+Alternative OTCV8 BotServer
 
-!! THIS PROGRAM IS FREE AND CAN NOT BE SOLD !!
+Made by Discord: VivoDibra#1182
 
-!! ESTE PROGRAMA É GRATIS E NÃO PODE SER VENDIDO !!
+Oficial Discord Server: https://discord.gg/RkQ9nyPMBH
 
-Usage Example:
+Oficial Youtube Channel: https://www.youtube.com/@vivodibra/videos
+
+You Can Download the modified BotServer.lua in the Discord Server (work like the original BotServer) !!!
+
+You can download the BotServer here: https://github.com/GabrielPiM/DreamNavBotServer/releases/download/V1.0.0/DibraServer.Win.x64.rar
+
+[ENG] THIS PROGRAM IS FREE AND CAN NOT BE SOLD !!
+
+[BR] ESTE PROGRAMA É GRATIS E NÃO PODE SER VENDIDO !!
+
+Usage Example (OTCV8 .lua script):
 
 ```lua
 --[REQUIRED] Change BotServer URL
@@ -30,3 +40,7 @@ macro(1000, function()
   BotServer.send("Test", "Test Message")
 end)
 ```
+
+[ENG] Liked it? consider buying a script!
+
+[BR] Gostou? considere comprar um script!
